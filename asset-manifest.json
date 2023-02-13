@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bryntumdemo-woohah/static/css/main.e267c9ce.chunk.css",
+    "main.js": "/Bryntumdemo-woohah/static/js/main.91c4c9c1.chunk.js",
+    "main.js.map": "/Bryntumdemo-woohah/static/js/main.91c4c9c1.chunk.js.map",
+    "runtime-main.js": "/Bryntumdemo-woohah/static/js/runtime-main.bacd839c.js",
+    "runtime-main.js.map": "/Bryntumdemo-woohah/static/js/runtime-main.bacd839c.js.map",
+    "static/css/2.c2c03925.chunk.css": "/Bryntumdemo-woohah/static/css/2.c2c03925.chunk.css",
+    "static/js/2.25961ebe.chunk.js": "/Bryntumdemo-woohah/static/js/2.25961ebe.chunk.js",
+    "static/js/2.25961ebe.chunk.js.map": "/Bryntumdemo-woohah/static/js/2.25961ebe.chunk.js.map",
+    "index.html": "/Bryntumdemo-woohah/index.html",
+    "static/css/2.c2c03925.chunk.css.map": "/Bryntumdemo-woohah/static/css/2.c2c03925.chunk.css.map",
+    "static/css/main.e267c9ce.chunk.css.map": "/Bryntumdemo-woohah/static/css/main.e267c9ce.chunk.css.map",
+    "static/js/2.25961ebe.chunk.js.LICENSE.txt": "/Bryntumdemo-woohah/static/js/2.25961ebe.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Bryntumdemo-woohah/static/media/fa-solid-900.e615bbcb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bacd839c.js",
+    "static/css/2.c2c03925.chunk.css",
+    "static/js/2.25961ebe.chunk.js",
+    "static/css/main.e267c9ce.chunk.css",
+    "static/js/main.91c4c9c1.chunk.js"
+  ]
+}
