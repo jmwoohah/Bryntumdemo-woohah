@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[0],{11:function(t,e,a){"use strict";a.r(e);a(0);var n=a(1),r=a.n(n),o=a(4);const s={columns:[{type:"name",field:"name",width:250}],viewPreset:"weekAndDayLetter",barMargin:10,project:{transport:{load:{url:"data/gantt-data.json"}},autoLoad:!0}};a(9);var c=a(2);var p=function(){return Object(c.jsx)(o.a,{...s})};r.a.render(Object(c.jsx)(p,{}),document.getElementById("container"))},9:function(t,e,a){}},[[11,1,2]]]);
-//# sourceMappingURL=main.91c4c9c1.chunk.js.map
